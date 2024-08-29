@@ -1,1 +1,1 @@
-# Synchronous_FIFO
+Designed a FIFO with an 8-entry depth and 1-bit data width to ensure efficient data storage and retrieval within a single clock domain. This synchronous FIFO features sequential data writing and reading from a memory array using a clock signal.
